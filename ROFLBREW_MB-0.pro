@@ -1,4 +1,4 @@
-update=17.01.2017 17:49:20
+update=11.03.2017 16:58:19
 version=1
 last_client=kicad
 [pcbnew]
@@ -68,3 +68,4 @@ LibName36=switching_regs
 LibName37=mems_oscillators
 LibName38=rtd_frontends
 LibName39=digital_transistors
+LibName40=power_switches
